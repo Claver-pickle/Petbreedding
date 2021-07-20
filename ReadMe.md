@@ -1,6 +1,8 @@
 # Petbreedding
 ## [펫브리띵 바로 가기](http://112.221.156.36:8090/petbreedding/) 
+<!--
 ## [시연 영상 바로 보기](https://youtu.be/ZX5bDemHHXQ) 
+-->
 ##### 팀원 : 곽서현(조장), 김세훈, 유해니, 이승연, 이은혜
 ---
 ## Contents
