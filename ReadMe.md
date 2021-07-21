@@ -89,6 +89,13 @@
 
 **10. 찜하기**<br>
 <left><img src="https://user-images.githubusercontent.com/79631070/126453812-f23c8e07-e7bc-4e9d-adf6-d6db48c1cec0.gif" /></left><br>
+
+**11. 게시판**<br>
+<left><img src="https://user-images.githubusercontent.com/79631070/126453812-f23c8e07-e7bc-4e9d-adf6-d6db48c1cec0.gif" /></left><br>
+
+**12. 그래프**<br>
+<left><img src="https://user-images.githubusercontent.com/79631070/126454268-356f6f29-e072-418b-9b2b-c7537339ecec.gif" /></left><br>
+
 - 뉴스 플로팅 메뉴 제공(Cryptonews API 사용)
 - 표, 차트로 주요 코인 실시간 조회(bithumb, upbit, Trading View API 사용)
 - BTMI, BTAI 지수 조회(Highcharts API 사용)
