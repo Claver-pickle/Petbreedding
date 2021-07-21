@@ -54,7 +54,7 @@
 
 ---
 ## Document
-### 1. 요구사항 정의서
+### 1. 
 <p align="center">
     <img src = "ReadMe/specification.png", width="100%">
 </p>
