@@ -55,6 +55,7 @@
 **4. 리스트조회**<br>
 <left><img src="https://user-images.githubusercontent.com/79631070/126447132-bcb93d8e-ee75-4d57-bd8b-d36158155cdd.gif" /></left><br>
 - 최신순, 인기순, 리뷰순 및 지도와 키워드 검색
+
 **5. 사용자 예약**<br>
 <left><img src="https://user-images.githubusercontent.com/79631070/126448049-3f086f5f-5b9e-4a56-8ed0-41a28d95e86a.gif" /></left><br>
 - datepicker를 사용해 캘린더 구현. 
