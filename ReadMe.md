@@ -76,6 +76,19 @@
 
 **7. 울트라콜**<br>
 <left><img src="https://user-images.githubusercontent.com/79631070/126450353-9f5ae46e-4361-4c82-8812-f667a7be5db3.gif" /></left><br>
+
+**8. 예약조회**<br>
+- 사용자예약조회<br>
+<left><img src="https://user-images.githubusercontent.com/79631070/126453414-0d618aa3-a60e-4cee-aa0e-3770b152eb8e.gif" /></left><br>
+- 사업자예약조회<br>
+<left><img src="https://user-images.githubusercontent.com/79631070/126453438-52ad199d-13ed-4b68-927b-4bd1e32c37f2.gif" /></left><br>
+
+**9. 반려동물**<br>
+- 반려동물등록<br>
+<left><img src="https://user-images.githubusercontent.com/79631070/126453677-0406c347-9ce0-4458-a651-d3e47aada53c.gif" /></left><br>
+
+**10. 찜하기**<br>
+<left><img src="https://user-images.githubusercontent.com/79631070/126453812-f23c8e07-e7bc-4e9d-adf6-d6db48c1cec0.gif" /></left><br>
 - 뉴스 플로팅 메뉴 제공(Cryptonews API 사용)
 - 표, 차트로 주요 코인 실시간 조회(bithumb, upbit, Trading View API 사용)
 - BTMI, BTAI 지수 조회(Highcharts API 사용)
