@@ -54,6 +54,10 @@
 <left><img src="https://user-images.githubusercontent.com/79631070/126446946-06e4851b-0da2-4ca6-b8bc-8713e63b624f.gif" /></left><br>
 **4. 리스트조회**<br>
 <left><img src="https://user-images.githubusercontent.com/79631070/126447132-bcb93d8e-ee75-4d57-bd8b-d36158155cdd.gif" /></left><br>
+**5. 사용자 예약**<br>
+<left><img src="https://user-images.githubusercontent.com/79631070/126448049-3f086f5f-5b9e-4a56-8ed0-41a28d95e86a.gif" /></left><br>
+**6. 사용자 결제**<br>
+<left><img src="https://user-images.githubusercontent.com/79631070/126448145-9fc4c591-79e1-43a4-8d0e-c8b6acc0d144.gif" /></left><br>
 - 뉴스 플로팅 메뉴 제공(Cryptonews API 사용)
 - 표, 차트로 주요 코인 실시간 조회(bithumb, upbit, Trading View API 사용)
 - BTMI, BTAI 지수 조회(Highcharts API 사용)
