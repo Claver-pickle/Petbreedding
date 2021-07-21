@@ -69,5 +69,6 @@
 ![BpUseCase](https://user-images.githubusercontent.com/64541839/126427330-de4324d6-5818-4f3a-ba9c-339e09ef436d.gif)
 #### 관리자<br>
 ![AdUseCase](https://user-images.githubusercontent.com/64541839/126427368-4afdc528-7b4f-4e50-8bc4-ef9f919ce794.gif)
-
+### 3. ERD
+![erd](https://user-images.githubusercontent.com/78994909/126428775-b09b8909-e6c2-40e2-83dc-aeadfb661f58.png)
 
