@@ -86,19 +86,21 @@
 [클래스 다이어그램 전체 이미지](https://github.com/Claver-pickle/Petbreedding/files/6853101/default.zip)
 ### 7. 화면 설계서
 #### 사용자<br>
+[화면 설계서 사용자 pdf 파일](https://github.com/Claver-pickle/Petbreedding/files/6853281/-.1.pdf)
 ![화면설계서 유저1](https://user-images.githubusercontent.com/64541839/126441868-4395b213-225d-4650-a0e5-71111a1df8ae.png)
 ![화면설계서 유저2](https://user-images.githubusercontent.com/64541839/126442096-9362d46e-9cc1-4c0e-8a5a-7d9eb9c8e34d.png)
-[화면 설계서 사용자 pdf 파일](https://github.com/Claver-pickle/Petbreedding/files/6853281/-.1.pdf)
+![사용자1](https://user-images.githubusercontent.com/64541839/126444514-9b83beca-dc9e-4c53-abb6-e92259cd6f6c.png)
+![사용자2](https://user-images.githubusercontent.com/64541839/126444744-05d6c90d-4754-4840-81ab-3c897f943111.png)
 #### 비즈니스파트너<br>
+[화면 설계서 비즈니스 파트너 pdf 파일](https://github.com/Claver-pickle/Petbreedding/files/6853281/-.1.pdf)
 ![화면설계서 사업자1](https://user-images.githubusercontent.com/64541839/126443107-f7b5ad18-6735-4074-827c-e15b8963dd0b.png)
 ![사업자6](https://user-images.githubusercontent.com/64541839/126443168-a8b0466e-af0f-41ff-be01-64d948f91f33.png)
 ![사업자5](https://user-images.githubusercontent.com/64541839/126443217-c587bd4f-f64b-4803-99dd-4b2b24814d2e.png)
 ![사업자4](https://user-images.githubusercontent.com/64541839/126443254-39c9e27b-61e3-4236-95d5-9d17c5798f6b.png)
 ![사업자2](https://user-images.githubusercontent.com/64541839/126443289-ab4e3c78-cbd2-4ca3-b7d9-43b4cbb9ab09.png)
 ![사업자3](https://user-images.githubusercontent.com/64541839/126443320-77fbf549-8078-482c-9410-383f1d0cbb7a.png)
-[화면 설계서 비즈니스 파트너 pdf 파일](https://github.com/Claver-pickle/Petbreedding/files/6853281/-.1.pdf)
 #### 관리자<br>
+[화면 설계서 관리자 pdf 파일](https://github.com/Claver-pickle/Petbreedding/files/6853281/-.1.pdf)
 ![관리자1](https://user-images.githubusercontent.com/64541839/126443909-61692000-5ec7-4e70-ad96-8ab20ba22e90.png)
 ![관리자2](https://user-images.githubusercontent.com/64541839/126443947-fb6aa58f-94e0-4859-8dcf-7d36353d7378.png)
 ![관리자3](https://user-images.githubusercontent.com/64541839/126443976-80c71f4e-353d-4524-af9b-00f3a89e7556.png)
-[화면 설계서 관리자 pdf 파일](https://github.com/Claver-pickle/Petbreedding/files/6853281/-.1.pdf)
