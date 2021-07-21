@@ -59,12 +59,12 @@
 <left><img src="https://user-images.githubusercontent.com/79631070/126447132-bcb93d8e-ee75-4d57-bd8b-d36158155cdd.gif" /></left><br>
 - 최신순, 인기순, 리뷰순 및 지도와 키워드 검색
 
-**5. 사용자 예약**<br>
+**5. 예약**<br>
 <left><img src="https://user-images.githubusercontent.com/79631070/126448049-3f086f5f-5b9e-4a56-8ed0-41a28d95e86a.gif" /></left><br>
 - datepicker를 사용해 캘린더 구현. 
 - 주휴일 테이블을 ajax로 다녀오며, 해당 매장의 주휴일을 조회해 datepicker에 입력
 
-**6. 사용자 결제**<br>
+**6. 결제**<br>
 <left><img src="https://user-images.githubusercontent.com/79631070/126448145-9fc4c591-79e1-43a4-8d0e-c8b6acc0d144.gif" /></left><br>
 - 아임포트api를 사용
  
