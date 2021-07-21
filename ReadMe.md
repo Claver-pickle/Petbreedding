@@ -71,5 +71,7 @@
 ![AdUseCase](https://user-images.githubusercontent.com/64541839/126427368-4afdc528-7b4f-4e50-8bc4-ef9f919ce794.gif)
 ### 3. ERD
 ![erd](https://user-images.githubusercontent.com/78994909/126428894-1e80a296-51e3-45d7-8422-e1d942c058ff.png)
-
+### 4. 요구사항 정의서
+![요구사항 정의서](https://user-images.githubusercontent.com/64541839/126428623-1f859f9f-1319-455b-bc50-440a532adb2b.png)
+[요구사항 정의서 원본 파일](https://github.com/Claver-pickle/Petbreedding/files/6852750/default.xlsx)
 
