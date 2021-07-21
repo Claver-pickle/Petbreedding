@@ -50,8 +50,10 @@
 <left><img src="https://user-images.githubusercontent.com/79631070/126436253-edea3eee-03c8-4e73-a8d0-718a5ce23ca3.gif" /></left><br>
 **2. 회원가입**<br>
 <left><img src="https://user-images.githubusercontent.com/79631070/126441350-75397007-3cce-40bf-a00f-ca33a285bd01.gif" /></left><br>
-**3. 로그인**<br>
-<left><img src="https://user-images.githubusercontent.com/79631070/126441350-75397007-3cce-40bf-a00f-ca33a285bd01.gif" /></left><br>
+**3. 강아지MBTI**<br>
+<left><img src="https://user-images.githubusercontent.com/79631070/126446946-06e4851b-0da2-4ca6-b8bc-8713e63b624f.gif" /></left><br>
+**4. 리스트조회**<br>
+<left><img src="https://user-images.githubusercontent.com/79631070/126447132-bcb93d8e-ee75-4d57-bd8b-d36158155cdd.gif" /></left><br>
 - 뉴스 플로팅 메뉴 제공(Cryptonews API 사용)
 - 표, 차트로 주요 코인 실시간 조회(bithumb, upbit, Trading View API 사용)
 - BTMI, BTAI 지수 조회(Highcharts API 사용)
