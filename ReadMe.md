@@ -47,9 +47,9 @@
 
 ## 주요기능
 **1. 메인페이지**<br>
-<left><img src="https://user-images.githubusercontent.com/79631070/126436253-edea3eee-03c8-4e73-a8d0-718a5ce23ca3.gif"  width="700" height="400" /></left>
+<left><img src="https://user-images.githubusercontent.com/79631070/126436253-edea3eee-03c8-4e73-a8d0-718a5ce23ca3.gif"  width="700" height="400" /></left><br>
 **2. 로그인**<br>
-<left><img src="https://user-images.githubusercontent.com/79631070/126441350-75397007-3cce-40bf-a00f-ca33a285bd01.gif" width="700" height="400"/></left>
+<left><img src="https://user-images.githubusercontent.com/79631070/126441350-75397007-3cce-40bf-a00f-ca33a285bd01.gif"/></left>
 - 뉴스 플로팅 메뉴 제공(Cryptonews API 사용)
 - 표, 차트로 주요 코인 실시간 조회(bithumb, upbit, Trading View API 사용)
 - BTMI, BTAI 지수 조회(Highcharts API 사용)
