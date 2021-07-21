@@ -70,5 +70,6 @@
 #### 관리자<br>
 ![AdUseCase](https://user-images.githubusercontent.com/64541839/126427368-4afdc528-7b4f-4e50-8bc4-ef9f919ce794.gif)
 ### 3. ERD
-![erd](https://user-images.githubusercontent.com/78994909/126428775-b09b8909-e6c2-40e2-83dc-aeadfb661f58.png)
+![erd](https://user-images.githubusercontent.com/78994909/126428894-1e80a296-51e3-45d7-8422-e1d942c058ff.png)
+
 
