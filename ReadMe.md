@@ -72,7 +72,7 @@
 <left><img src="https://user-images.githubusercontent.com/79631070/126448425-9076024a-391f-4b43-9d4e-b9afcdb7b581.gif" /></left><br>
 
 **8. 채팅**<br>
-<left><img src="https://user-images.githubusercontent.com/79631070/126448425-9076024a-391f-4b43-9d4e-b9afcdb7b581.gif" /></left><br>
+<left><img src="chat.gif" /></left><br>
 
 **7. 울트라콜**<br>
 <left><img src="https://user-images.githubusercontent.com/79631070/126450353-9f5ae46e-4361-4c82-8812-f667a7be5db3.gif" /></left><br>
