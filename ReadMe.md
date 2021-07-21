@@ -50,6 +50,9 @@
 <left><img src="https://user-images.githubusercontent.com/79631070/126436253-edea3eee-03c8-4e73-a8d0-718a5ce23ca3.gif" /></left><br>
 **2. 회원가입**<br>
 <left><img src="https://user-images.githubusercontent.com/79631070/126441350-75397007-3cce-40bf-a00f-ca33a285bd01.gif" /></left><br>
+- 이메일, 닉네임, 핸드폰번호는 ajax를 사용해, DB까지 다녀오며 중복 검사를 진행함.
+- 이름을 제외하고는 유효성 체크를 진행함.
+
 **3. 강아지MBTI**<br>
 <left><img src="https://user-images.githubusercontent.com/79631070/126446946-06e4851b-0da2-4ca6-b8bc-8713e63b624f.gif" /></left><br>
 **4. 리스트조회**<br>
