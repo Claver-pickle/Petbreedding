@@ -74,4 +74,6 @@
 ### 4. 요구사항 정의서
 ![요구사항 정의서](https://user-images.githubusercontent.com/64541839/126429477-0aeed4e2-e691-467a-99cf-ceee4e11b2b9.png)
 [요구사항 정의서 원본 파일](https://github.com/Claver-pickle/Petbreedding/files/6852750/default.xlsx)
-
+### 5. 테이블 정의서
+![테이블 정의서](https://user-images.githubusercontent.com/64541839/126436304-34d56524-5ae1-4d5d-8fdb-8f9c33381bba.png)
+[테이블 정의서 원본 파일](https://github.com/Claver-pickle/Petbreedding/files/6853063/1.0.docx)
