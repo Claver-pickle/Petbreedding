@@ -77,3 +77,6 @@
 ### 5. 테이블 정의서
 ![테이블 정의서](https://user-images.githubusercontent.com/64541839/126436304-34d56524-5ae1-4d5d-8fdb-8f9c33381bba.png)
 [테이블 정의서 원본 파일](https://github.com/Claver-pickle/Petbreedding/files/6853063/1.0.docx)
+### 6. 클래스 다이어그램
+![admin](https://user-images.githubusercontent.com/64541839/126436756-64984e64-ccf8-4236-99d7-9583b9fa7841.jpg)
+[클래스 다이어그램 전체 이미지](https://github.com/Claver-pickle/Petbreedding/files/6853101/default.zip)
