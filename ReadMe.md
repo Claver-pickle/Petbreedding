@@ -70,6 +70,12 @@
  
 **7. 알림**<br>
 <left><img src="https://user-images.githubusercontent.com/79631070/126448425-9076024a-391f-4b43-9d4e-b9afcdb7b581.gif" /></left><br>
+
+**8. 채팅**<br>
+<left><img src="https://user-images.githubusercontent.com/79631070/126448425-9076024a-391f-4b43-9d4e-b9afcdb7b581.gif" /></left><br>
+
+**7. 울트라콜**<br>
+<left><img src="https://user-images.githubusercontent.com/79631070/126450353-9f5ae46e-4361-4c82-8812-f667a7be5db3.gif" /></left><br>
 - 뉴스 플로팅 메뉴 제공(Cryptonews API 사용)
 - 표, 차트로 주요 코인 실시간 조회(bithumb, upbit, Trading View API 사용)
 - BTMI, BTAI 지수 조회(Highcharts API 사용)
