@@ -47,20 +47,27 @@
 <!--
 ---
 ## 주요기능
-**1. 로그인**
-<p align="center">
-    <img src = "ReadMe/01.png", width="100%">
-</p>
+**1. 메인페이지**<br>
+---
+<left><img src="https://user-images.githubusercontent.com/82923946/126055504-58c75312-4389-4831-97f7-ea82cc0b4b0f.gif"  width="700" height="400" /></left>
+- 뉴스 플로팅 메뉴 제공(Cryptonews API 사용)
+- 표, 차트로 주요 코인 실시간 조회(bithumb, upbit, Trading View API 사용)
+- BTMI, BTAI 지수 조회(Highcharts API 사용)
+- 커뮤니티 인기 게시글 조회
+-->
 
 ---
 ## Document
-### 1. 
-<p align="center">
-    <img src = "ReadMe/specification.png", width="100%">
-</p>
+### 1. 개발 일정
+![개발일정](https://user-images.githubusercontent.com/64541839/126419285-0ef90abd-758b-4abd-a7da-9d4717d42642.png)
+### 2. 유스케이스
+#### 회원<br>
+![UserUseCasePpt](https://user-images.githubusercontent.com/64541839/126423456-1889013a-858d-4ab1-93e4-35c0f61451fb.gif)
+#### 비회원<br>
+![Usecase비회원](https://user-images.githubusercontent.com/64541839/126426994-0907dfcf-e6a0-4b4f-9220-75fe83c9c2d2.png)
+#### 비즈니스파트너<br>
+![BpUseCase](https://user-images.githubusercontent.com/64541839/126427330-de4324d6-5818-4f3a-ba9c-339e09ef436d.gif)
+#### 관리자<br>
+![AdUseCase](https://user-images.githubusercontent.com/64541839/126427368-4afdc528-7b4f-4e50-8bc4-ef9f919ce794.gif)
 
-### 2. ERD
-<p align="center">
-    <img src = "ReadMe/erd.png", width="100%">
-</p>
--->
+
