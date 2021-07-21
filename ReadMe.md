@@ -59,7 +59,7 @@
 ---
 ## Document
 ### PPT
-![Petbreedding.pdf](https://github.com/Claver-pickle/Petbreedding/files/6852813/Petbreedding.pdf)
+[Petbreedding.pdf](https://github.com/Claver-pickle/Petbreedding/files/6852813/Petbreedding.pdf)
 ### 1. 개발 일정
 ![개발일정](https://user-images.githubusercontent.com/64541839/126419285-0ef90abd-758b-4abd-a7da-9d4717d42642.png)
 ### 2. 유스케이스
