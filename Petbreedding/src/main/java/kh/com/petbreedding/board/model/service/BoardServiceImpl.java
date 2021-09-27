@@ -15,8 +15,14 @@ import kh.com.petbreedding.common.model.vo.Pagination;
 @Service("boarService")
 public class BoardServiceImpl implements BoardService{
 	
+	private final BoardDao boardDao;
+
 	@Autowired
-	private BoardDao boardDao;
+	BoardServiceImpl(BoardDao boardDao) {
+		this.boardDao = boardDao;
+	}
+	
+
 
 	@Override
 	public int insertBoard(Board board) {
